@@ -7,15 +7,13 @@ last_modified_at: 2021-07-14T10:00:00-08:00
 toc: true
 ---
 
-> comming soon! 
-
 # Personal Information 
-## Name 
-## Address 
+> Name 
+> Address 
 # Education 
 # Experience 
 # Publications 
-## Patent 
-## Book Chapter 
-## Journal 
-## Conference Proceedings 
+> Patent 
+> Book Chapter 
+> Journal 
+> Conference Proceedings 
