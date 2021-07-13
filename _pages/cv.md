@@ -8,12 +8,12 @@ toc: true
 ---
 
 # Personal Information 
-> Name 
+> Name  
 > Address 
 # Education 
 # Experience 
 # Publications 
-> Patent 
-> Book Chapter 
-> Journal 
-> Conference Proceedings 
+> Patent  
+> Book Chapter  
+> Journal  
+> Conference Proceedings  
