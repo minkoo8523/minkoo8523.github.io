@@ -6,7 +6,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "CV"
     url: /cv/
-  - title: "Tags"
+  - title: "Keywords"
     url: /tags/
-  - title: "Categories"
+  - title: "Publications"
     url: /categories/
